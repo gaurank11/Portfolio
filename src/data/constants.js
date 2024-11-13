@@ -12,7 +12,7 @@ export const Bio = {
     "As a passionate technologist, I specialize in Full Stack Development and Web3 Development, combining my skills to create dynamic and scalable web applications. With a strong enthusiasm for Machine Learning and Deep Learning, I build predictive and deep learning models that leverage data science to drive innovation. I thrive on solving complex problems and designing effective solutions that enhance user experiences. Let's connect to explore new opportunities and push the boundaries of technology together!",
   github: "https://github.com/gaurank11",
   resume:
-    "https://drive.google.com/file/d/1ba4vJp9G3Jm6keRafrfsxUbXciyu3fWt",
+    "https://drive.google.com/file/d/1xMK6AN_kK1DFHX319dqk-Quz1ykqDxbM/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/gaurank-sharma-8b3180217/",
   twitter: "https://x.com/gaurank_sharma?t=3lcBDuEuZEx_45t3Ftz7JQ&s=09",
   insta: "https://www.instagram.com/gaurank_sharma_/",
