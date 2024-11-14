@@ -9,7 +9,7 @@ export const Bio = {
     
   ],
   description:
-    "As a passionate technologist, I specialize in Full Stack Development and Web3 Development, combining my skills to create dynamic and scalable web applications. With a strong enthusiasm for Machine Learning and Deep Learning, I build predictive and deep learning models that leverage data science to drive innovation. I thrive on solving complex problems and designing effective solutions that enhance user experiences. Let's connect to explore new opportunities and push the boundaries of technology together!",
+    "I am a dedicated Full Stack Developer with a growing expertise in Web3 Development, and a strong foundation in Machine Learning and Deep Learning. My work focuses on crafting dynamic, scalable web applications and utilizing data-driven approaches to build predictive models that solve complex problems and enhance user experiences. With a blend of technical skills and a passion for innovation, I aim to create solutions that not only meet functional requirements but also push the boundaries of user-centered design. I am constantly expanding my knowledge in Web3, diving deeper into blockchain technologies to integrate decentralized features into my projects. Let's connect and explore new opportunities to collaborate, innovate, and make meaningful advancements in technology together!",
   github: "https://github.com/gaurank11",
   resume:
     "https://drive.google.com/file/d/1cUUcdTuqqaz4OlW2i8OrcvIC5FdOVdZI/view?usp=drivesdk",
