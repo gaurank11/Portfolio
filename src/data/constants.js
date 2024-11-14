@@ -12,7 +12,7 @@ export const Bio = {
     "As a passionate technologist, I specialize in Full Stack Development and Web3 Development, combining my skills to create dynamic and scalable web applications. With a strong enthusiasm for Machine Learning and Deep Learning, I build predictive and deep learning models that leverage data science to drive innovation. I thrive on solving complex problems and designing effective solutions that enhance user experiences. Let's connect to explore new opportunities and push the boundaries of technology together!",
   github: "https://github.com/gaurank11",
   resume:
-    "https://drive.google.com/file/d/1xMK6AN_kK1DFHX319dqk-Quz1ykqDxbM/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1cUUcdTuqqaz4OlW2i8OrcvIC5FdOVdZI/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/gaurank-sharma-8b3180217/",
   twitter: "https://x.com/gaurank_sharma?t=3lcBDuEuZEx_45t3Ftz7JQ&s=09",
   insta: "https://www.instagram.com/gaurank_sharma_/",
@@ -264,7 +264,7 @@ export const experiences = [
     img: "https://raw.githubusercontent.com/gaurank11/assets-images/main/LOGO%20TP.png",
     role: "MERN DEVELOPER",
     company: "TECHNO PLANNER LLP",
-    date: "Sep 2023 - Jan 2024",
+    date: "July 2023 - Jan 2024",
     desc: "Collaborated with frontend teams to integrate backend services, optimizing user interface performance. Tackled the challenge of preventing spam registrations and fake bot posts, contributing to a 25% reduction in database query latency. Worked on user authentication and integrated Google reCAPTCHA for enhanced protection. Deployed the application for 50+ users on a VPS, transitioning from small-scale hosting to full deployment. Tech stacks: ReactJS, Node.js, Redux, Express, MongoDB, Git.",
     skills: [
     "ReactJS",
@@ -286,7 +286,7 @@ export const experiences = [
     img: "https://raw.githubusercontent.com/gaurank11/assets-images/main/Sobisco.png",
     role: "WEB INTERN",
     company: "SOBISCO BAKERS PVT. LTD.",
-    date: "Nov 2022 - Feb 2023",
+    date: "Nov 2022 - Mar 2023",
     desc: "Worked on optimizing PHP code, improving website speed by 15%, which resulted in a smoother user experience. Enhanced user interface features to increase website stability and interaction quality. Contributed to refining overall website features, fostering better stability and interactivity for the users. Tech stacks: PHP, HTML, CSS, JavaScript, MySQL.",
     skills: [
     "PHP",
@@ -353,7 +353,7 @@ export const projects = [
   {
     id: 9,
     title: "TotalWell",
-    date: "May 2024- Aug 2024",
+    date: "Mar 2024- July 2024",
     description:"TotalWell offers a complete wellness platform with a doctor-patient appointment system, doctor and admin portals, and video call capabilities. Integrated with AI-powered tools, it includes a Yoga Assistant for guided sessions, a meditation tool, and a physical health checker for BMI and calorie tracking from meals. This all-in-one solution uniquely combines healthcare, fitness, and nutrition in one easy-to-use application. For testing the sample login, you can use: (Admin - Email: admin@gmail.com, Password - 1234), (User - Email: user1@gmail.com, Password- user123)",
     image:"https://raw.githubusercontent.com/gaurank11/assets-images/71a299cdb2dd40a2c12ee32968a5a23e1d478c8e/TotalWell.png",
     tags: [
@@ -380,7 +380,7 @@ export const projects = [
   {
     id: 1,
     title: "PodCastera",
-    date: "Feb 2024 - Mar 2024",
+    date: "Oct 2024",
     description:"Podcastera is a unique platform that simplifies podcast creation using OpenAI. With powerful AI-driven text-to-speech features and thumbnail generation, anyone can create engaging podcasts with ease. Podcastera is especially valuable for people with disabilities who want to share their stories and for those who feel shy or reserved, providing them with a comfortable space to express themselves.For checking out this website, use credentials - Email: user1@gmail.com, Password: user123",
     image:"https://raw.githubusercontent.com/gaurank11/assets-images/3778cfae503b93854abf386287ee8c0d0a6ce4f4/Podcastera.png",
     tags: [
@@ -413,7 +413,7 @@ export const projects = [
   {
     id: 5,
     title: "Stack Fi",
-    date: "Oct 2024",
+    date: "Nov 2024",
     description:
     "StackFi is an innovative decentralized Web3 application (DApp) designed to offer users a simple, secure, and transparent platform for staking ERC20 tokens. Users can select specific tokens to stake, and as they do, they earn rewards over time based on the amount staked and the duration. StackFi aims to provide a seamless staking experience while maintaining the core principles of decentralization.By utilizing smart contracts, StackFi automates the entire staking and reward distribution process, ensuring that rewards are calculated and distributed accurately and without the need for intermediaries. This setup not only enhances security but also builds user trust, as the staking and reward mechanisms are entirely transparent and governed by code on the blockchain.",
     image:"https://raw.githubusercontent.com/gaurank11/assets-images/main/stackfi.png",
