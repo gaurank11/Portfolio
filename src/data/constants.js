@@ -9,7 +9,7 @@ export const Bio = {
     
   ],
   description:
-    "I am a dedicated Full Stack Developer with a growing expertise in Web3 Development, and a strong foundation in Machine Learning and Deep Learning. My work focuses on crafting dynamic, scalable web applications and utilizing data-driven approaches to build predictive models that solve complex problems and enhance user experiences. With a blend of technical skills and a passion for innovation, I aim to create solutions that not only meet functional requirements but also push the boundaries of user-centered design. I am constantly expanding my knowledge in Web3, diving deeper into blockchain technologies to integrate decentralized features into my projects. Let's connect and explore new opportunities to collaborate, innovate, and make meaningful advancements in technology together!",
+    "I’m a passionate Full Stack Developer specializing in the MERN stack and Next.js, with a solid foundation in Machine Learning and Deep Learning. I’m expanding my knowledge into Web3 Development, my focus is on integrating these cutting-edge technologies to create innovative, high-performance web applications. I’m driven by the challenge of building seamless, data-powered solutions that combine full-stack development, AI, and blockchain to deliver exceptional user experiences.  Let's connect and explore new opportunities to collaborate, innovate, and make meaningful advancements in technology together!",
   github: "https://github.com/gaurank11",
   resume:
     "https://drive.google.com/file/d/1cUUcdTuqqaz4OlW2i8OrcvIC5FdOVdZI/view?usp=drivesdk",
