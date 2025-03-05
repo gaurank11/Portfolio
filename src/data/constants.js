@@ -2,14 +2,12 @@ export const Bio = {
   name: "Gaurank Sharma",
   roles: [
     "Full Stack Developer",
-    "Web3 Developer",
     "ML Enthusiast",
-    "DL Enthusiast",
     "Coder",
     
   ],
   description:
-    "As a passionate technologist, I specialize in Full Stack Development and Web3 Development, combining my skills to create dynamic and scalable web applications. With a strong enthusiasm for Machine Learning and Deep Learning, I build predictive and deep learning models that leverage data science to drive innovation. I thrive on solving complex problems and designing effective solutions that enhance user experiences. Let's connect to explore new opportunities and push the boundaries of technology together!",
+    "As a passionate technologist, I specialize in Web Development, AI, and Machine Learning, combining my skills to build scalable and dynamic applications. I focus on creating efficient web solutions while leveraging AI and ML to drive intelligent automation and data-driven insights. I enjoy solving complex challenges and developing innovative solutions that enhance user experiences. Let's connect to explore new opportunities and push the boundaries of technology together!",
   github: "https://github.com/gaurank11",
   resume:
     "https://drive.google.com/file/d/1ba4vJp9G3Jm6keRafrfsxUbXciyu3fWt/view?usp=drivesdk",
@@ -72,20 +70,14 @@ export const skills = [
         image:
           "data:image/png;base64,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",
       },
-      {
-        name: "Graph Ql",
-        image: "https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg",
-      },
+      
       
       {
         name: "MySQL",
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
       },
-      {
-        name: "Postgresql",
-        image: "https://www.postgresql.org/media/img/about/press/elephant.png",
-      },
+      
       {
         name: "MongoDB",
         image:
@@ -130,41 +122,6 @@ export const skills = [
     ],
   },
 
-  {
-    title: "Web3",
-    skills: [
-      {
-        name: "Blockchain",
-        image:
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8E7Uvjg3mcxofFhpqyDse_G66-Y4QwDolww&s",
-      },
-      {
-        name: "Smart Contracts",
-        image:
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuP8GmS0DSb99gEphIpBsfajmdsxT3KQgEHg&s",
-      },
-      {
-        name: "DApp Development",
-        image:
-          "https://media.licdn.com/dms/image/v2/D5612AQEF3aaofZea3w/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1701342686985?e=2147483647&v=beta&t=6SpbHTrwqVLROYTDTSVkRtdl3LqQ3_GDuyjx1qbnJQM",
-      },
-      {
-        name: "Cryptography",
-        image:
-          "https://wp.technologyreview.com/wp-content/uploads/2019/07/quantumexplainer3.2-01-10.jpg",
-      }, 
-      {
-        name: "Decentralized Finance (DeFi)",
-        image:
-          "https://d2hijos0r2m9rf.cloudfront.net/uploads/blog_image/blog_334.jpg",
-      }, 
-      {
-        name: "Non-Fungible Tokens (NFTs)",
-        image:
-          "https://vajiram-prod.s3.ap-south-1.amazonaws.com/What_are_Non_Fungible_Tokens_NF_Ts_8afdd6cac8.jpg",
-      },
-    ],
-  },
 
   {
     title: "Deep Learning",
@@ -229,11 +186,6 @@ export const skills = [
           "https://ik.imagekit.io/qualys/wp-content/uploads/2020/10/postman.jpg",
       },
      
-      {
-        name: "Figma",
-        image:
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2qkazr8RyCufEWpmLn9pnafmks3ys5R8zX-LyCG53aw&s",
-      },
     ],
   },
 ];
@@ -241,21 +193,21 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://raw.githubusercontent.com/gaurank11/assets-images/main/Screenshot%202024-11-13%20195457.png",
-    role: "CO- FOUNDER",
-    company: "RYVEL",
-    date: "Dec 2023 - June 2024",
-    desc: "Co-founded and led Ryvel, a clothing startup focused on drop shipping. Contributed to the development of the company website within 2 months, implementing e-commerce functionalities, user-friendly interfaces, and a seamless shopping experience. Handled strategic decision-making, including package logistics, inventory management, and market competition. The startup faced challenges related to pricing and delivery logistics, which led to its closure after 7 months.",
+    img: "https://raw.githubusercontent.com/gaurank11/assets-images/main/bbark.png",
+    role: "Full Stack Developer -- Freelancing",
+    company: "BeeBark",
+    date: "Nov 2024 - Present",
+    desc: "As a Full Stack Developer (Freelancing) at BeeBark, I have successfully delivered two projects and am actively working on two more. I collaborate closely with the core team, contributing to both frontend and backend development to ensure seamless project execution. My role involves building scalable and responsive web applications using React.js, Node.js, Express.js, and MongoDB, while efficiently managing state with Redux.",
     "skills": [
-    "Business Strategy",
-    "Pricing Optimization",
-    "E-commerce",
-    "Website Development",
-    "Full stack Development",
-    "MERN",
-    "Market Research",
-    "Drop Shipping",
-    "Leadership"
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "ReactjS",
+      "Node.js",
+      "Redux",
+      "Express.js",
+      "MongoDB",
+      "Git",
   ]
    
   },
@@ -281,23 +233,7 @@ export const experiences = [
     
   },
 
-  {
-    id: 0,
-    img: "https://raw.githubusercontent.com/gaurank11/assets-images/main/Sobisco.png",
-    role: "WEB INTERN",
-    company: "SOBISCO BAKERS PVT. LTD.",
-    date: "Nov 2022 - Feb 2023",
-    desc: "Worked on optimizing PHP code, improving website speed by 15%, which resulted in a smoother user experience. Enhanced user interface features to increase website stability and interaction quality. Contributed to refining overall website features, fostering better stability and interactivity for the users. Tech stacks: PHP, HTML, CSS, JavaScript, MySQL.",
-    skills: [
-    "PHP",
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "MySQL",
-    "Git"
-    ],
-    
-  },
+
 
 ];
 
@@ -410,18 +346,7 @@ export const projects = [
     github: "https://github.com/gaurank11/ClarityCraft",
     webapp: "https://claritycraft.vercel.app",
   },
-  {
-    id: 5,
-    title: "Stack Fi",
-    date: "Oct 2024",
-    description:
-    "StackFi is an innovative decentralized Web3 application (DApp) designed to offer users a simple, secure, and transparent platform for staking ERC20 tokens. Users can select specific tokens to stake, and as they do, they earn rewards over time based on the amount staked and the duration. StackFi aims to provide a seamless staking experience while maintaining the core principles of decentralization.By utilizing smart contracts, StackFi automates the entire staking and reward distribution process, ensuring that rewards are calculated and distributed accurately and without the need for intermediaries. This setup not only enhances security but also builds user trust, as the staking and reward mechanisms are entirely transparent and governed by code on the blockchain.",
-    image:"https://raw.githubusercontent.com/gaurank11/assets-images/main/stackfi.png",
-    tags: ["Solidity", "Ethereum", "Web3.js", "React", "Smart Contracts", "IPFS", "Tailwind CSS"],
-    category: "web3 app",
-    github: "https://github.com/gaurank11/StackFi",
-    webapp: "https://stackfi.vercel.app",
-  },
+ 
  
   {
     id: 8,
