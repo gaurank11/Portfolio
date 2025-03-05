@@ -7,10 +7,10 @@ export const Bio = {
     
   ],
   description:
-    "As a passionate technologist, I specialize in Web Development, AI, and Machine Learning, combining my skills to build scalable and dynamic applications. I focus on creating efficient web solutions while leveraging AI and ML to drive intelligent automation and data-driven insights. I enjoy solving complex challenges and developing innovative solutions that enhance user experiences. Let's connect to explore new opportunities and push the boundaries of technology together!",
+    "As a passionate technologist, I specialize in Web Development, AI, and Machine Learning, using my skills to build scalable and dynamic applications. I focus on creating efficient web solutions while leveraging AI and ML for smart automation and data insights. I enjoy tackling complex problems and developing innovative solutions to enhance user experiences. Let’s connect to explore new opportunities and push the limits of technology!",
   github: "https://github.com/gaurank11",
   resume:
-    "https://drive.google.com/file/d/1ba4vJp9G3Jm6keRafrfsxUbXciyu3fWt/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1n2fmvBRCE3Qtv_bLULmI40MejP8i_tFy/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/gaurank-sharma-8b3180217/",
   twitter: "https://x.com/gaurank_sharma?t=3lcBDuEuZEx_45t3Ftz7JQ&s=09",
   insta: "https://www.instagram.com/gaurank_sharma_/",
@@ -193,7 +193,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://raw.githubusercontent.com/gaurank11/assets-images/main/bbark.png",
+    img: "https://raw.githubusercontent.com/gaurank11/assets-images/main/bbark.jpeg",
     role: "Full Stack Developer -- Freelancing",
     company: "BeeBark",
     date: "Nov 2024 - Present",
