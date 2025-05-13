@@ -192,29 +192,29 @@ export const skills = [
 
 export const experiences = [
   {
-    id: 0,
-    img: "https://raw.githubusercontent.com/gaurank11/assets-images/main/bbark.png",
-    role: "Full Stack Developer -- Freelancing",
-    company: "BeeBark",
-    date: "Nov 2024 - Present",
-    desc: "As a Full Stack Developer (Freelancing) at BeeBark, I have successfully delivered two projects and am actively working on two more. I collaborate closely with the core team, contributing to both frontend and backend development to ensure seamless project execution. My role involves building scalable and responsive web applications using React.js, Node.js, Express.js, and MongoDB, while efficiently managing state with Redux.",
-    "skills": [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "ReactjS",
-      "Node.js",
-      "Redux",
-      "Express.js",
-      "MongoDB",
-      "Git",
+   "id": 0,
+  "img": "https://raw.githubusercontent.com/gaurank11/assets-images/main/bbark.png",
+  "role": "Full Stack Developer - Freelancing",
+  "company": "BeeBark",
+  "date": "Nov 2024 - Present",
+  "desc": "As a Full Stack Developer at BeeBark, I have delivered multiple domain-specific projects, including Potterzwheel Realty (https://www.potterzwheel.com), a real estate platform focused on property discovery and client trust; Trizzone (https://www.trizzone.com), a portfolio site for an architecture, interior, and landscape design studio; BeeBark Portfolio (https://www.thebeebark.com), showcasing the brand’s values and design ethos through an interactive manifesto; and Infinity Yoga (https://www.infinityyoga.in), a wellness site promoting yoga as a holistic lifestyle. I'm currently working on the new BeeBark website. I collaborate with the core team to handle both frontend and backend development, building scalable, responsive web applications using React.js, Node.js, Express.js, and MongoDB, while managing complex application state with Redux.",
+  "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "ReactjS",
+    "Node.js",
+    "Redux",
+    "Express.js",
+    "MongoDB",
+    "Git"
   ]
    
   },
   {
     id: 0,
     img: "https://raw.githubusercontent.com/gaurank11/assets-images/main/LOGO%20TP.png",
-    role: "MERN DEVELOPER",
+    role: "Full Stack Intern",
     company: "TECHNO PLANNER LLP",
     date: "Sep 2023 - Jan 2024",
     desc: "Collaborated with frontend teams to integrate backend services, optimizing user interface performance. Tackled the challenge of preventing spam registrations and fake bot posts, contributing to a 25% reduction in database query latency. Worked on user authentication and integrated Google reCAPTCHA for enhanced protection. Deployed the application for 50+ users on a VPS, transitioning from small-scale hosting to full deployment. Tech stacks: ReactJS, Node.js, Redux, Express, MongoDB, Git.",
@@ -333,18 +333,6 @@ export const projects = [
     category: "web app",
     github: "https://github.com/gaurank11/Podcastera",
     webapp: "https://podcastera.vercel.app",
-  },
-
-  {
-    id: 4,
-    title: "ClarityCraft",
-    date: "Aug 2023 - Oct 2023",
-    description:"ClarityCraft offers a unique solution for anyone who needs high-quality image editing tools without complex software. By combining AI-powered image manipulation and cloud-based technology (Cloudinary), it delivers seamless, efficient, and accessible image enhancement. The integration of Clerk ensures that user data and preferences are securely stored and managed, while MongoDB makes sure the platform remains scalable and responsive. With a focus on speed, reliability, and ease of use, ClarityCraft brings professional image editing to your fingertips—no experience required. use credentials for sample login- Email: user1@gmail.com, Password: user123",
-    image: "https://raw.githubusercontent.com/gaurank11/assets-images/main/claritycraft.png",
-    tags: ["Next.js", "Cloudinary", "Clerk", "MongoDB", "Tailwind CSS", "AI Image Editing", "React", "JavaScript", "HTML5", "CSS"]    ,
-    category: "web app", 
-    github: "https://github.com/gaurank11/ClarityCraft",
-    webapp: "https://claritycraft.vercel.app",
   },
  
  
