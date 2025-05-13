@@ -193,7 +193,7 @@ export const skills = [
 export const experiences = [
   {
    "id": 0,
-  "img": "https://raw.githubusercontent.com/gaurank11/assets-images/main/bbark.png",
+  "img": "https://raw.githubusercontent.com/gaurank11/assets-images/main/bbark.jpeg",
   "role": "Full Stack Developer - Freelancing",
   "company": "BeeBark",
   "date": "Nov 2024 - Present",
